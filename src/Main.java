@@ -44,7 +44,7 @@ public class Main {
                 System.out.println("You won $" + payout);
                 balance += payout;
             } else {
-                System.out.println("You lost huuhuhuhu");
+                System.out.println("You lost huhuhu poor doggy");
             }
             do {
                 System.out.println("Do you want to play more? (y/n): ");
